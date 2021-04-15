@@ -1,0 +1,5 @@
+ Three observable trends based on the data:
+
+ 1. There are nearly 6 times as many Male players then there are Female Players. With Males making up 84% of players and Females only covering 14% of all players.
+ 2. Almost 45% of Pymoli players are within the age range of 20 - 24, with the second most players in the 15 - 19 age bracket.
+ 3. Players 10 years of age and lower spent the most per person of any oter age group. This group also had the highest average purchase price of any group, these indicators would show that to be more profitable, Pymoli should engage more users in the 10 and under age group.
